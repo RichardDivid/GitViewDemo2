@@ -1,1 +1,2 @@
 # GitViewDemo2
+分别使用java方式和ndk方式加载gif文件
